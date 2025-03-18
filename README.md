@@ -148,7 +148,7 @@ Once all services are running, you can access:
 - Account Service (direct): http://localhost:8081
 - Transaction Service (direct): http://localhost:8083
 
-
+https://github.com/Tanooj-Seelam/Banking-System-Microservice/blob/main/images/Services-Registered.jpg
 
 ---
 
