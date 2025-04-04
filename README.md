@@ -1,6 +1,6 @@
 # 🚀 Spring Boot Banking Microservices
 
-A modern **banking system** built with **Spring Boot Microservices** architecture that provides core banking functionalities such as **account management** and **transaction processing**.
+A modern **Banking System** built with **Spring Boot Microservices** architecture that provides core banking functionalities such as **account management** and **transaction processing**.
 
 
 ---
@@ -148,7 +148,7 @@ Once all services are running, you can access:
 - Account Service (direct): http://localhost:8081
 - Transaction Service (direct): http://localhost:8083
 
-![Service Registered](https://github.com/Tanooj-Seelam/Banking-System-Microservice/blob/main/images/Services-Registered.jpg)
+
 
 ---
 
